@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{DAFB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{77C04EAA-60CE-4F37-9EAB-6C54F677D0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Bootstrapper\Api\Api.csproj", "{7E005F69-54DF-4E02-9C3A-A3019DDA7B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Bootstrapper\Api\Api.csproj", "{7E005F69-54DF-4E02-9C3A-A3019DDA7B4C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{3AD6147A-15C9-4023-BB2B-34FEB00CD618}"
 EndProject
@@ -17,13 +17,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{7268F8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ordering", "Ordering", "{AFE60A01-B126-49E4-AABD-975B3D1CDFC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket", "Modules\Basket\Basket\Basket.csproj", "{F843877F-0A18-4BDA-90D0-7CF7604A336D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket", "Modules\Basket\Basket\Basket.csproj", "{F843877F-0A18-4BDA-90D0-7CF7604A336D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog", "Modules\Catalog\Catalog\Catalog.csproj", "{CD13259F-029D-4B56-ACF5-4D9736680B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog", "Modules\Catalog\Catalog\Catalog.csproj", "{CD13259F-029D-4B56-ACF5-4D9736680B8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering", "Modules\Ordering\Ordering\Ordering.csproj", "{610A3EEC-C609-4046-B97B-714E22DE5371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering", "Modules\Ordering\Ordering\Ordering.csproj", "{610A3EEC-C609-4046-B97B-714E22DE5371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared\Shared.csproj", "{EAFEBBF1-0965-49BD-8672-626094F6D36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared\Shared.csproj", "{EAFEBBF1-0965-49BD-8672-626094F6D36F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
